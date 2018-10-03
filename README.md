@@ -1,2 +1,1 @@
-# Dudo81
-IronHack-exercises
+# IronHack-Ironskydive website files
